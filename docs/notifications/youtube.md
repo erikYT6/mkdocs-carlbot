@@ -3,8 +3,9 @@
 !!! info
     A number of variables are supported. 
 
-    * **{link}** Links to the new video (don't forget this one!)
-    * **{author}** The youtuber's channel title
+    * **{WEBSITE OFICIAL}** https://sites.google.com/view/editserik/p%C3%A1gina-principal
+    * **{TIKTOK}** https://www.tiktok.com/@.erik_yt6?_t=8Ui7136dgJy&_r=1
+    * **{YOUTUBE}** https://youtube.com/channel/UCBBRH5gUKNBdsOI4KZiiTRg
     * **{everyone}** @everyone
 
 | Name | Example | Usage |
